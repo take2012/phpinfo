@@ -1,0 +1,4 @@
+phpinfo
+=======
+
+test of git.
